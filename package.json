@@ -6,7 +6,7 @@
   "scripts": {
     "test": "npm test",
     "deploy": "node_modules/.bin/gulp deploy",
-    "summary": "node_modules/.bin/book sm"
+    "summary": "node_modules/.bin/book -i node_modules,_book sm"
   },
   "repository": {
     "type": "git",
