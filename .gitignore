@@ -1,6 +1,7 @@
 # Book build output
 _book
 _doc
+_out
 
 # eBook build output
 *.epub
