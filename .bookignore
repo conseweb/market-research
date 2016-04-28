@@ -5,3 +5,4 @@ doc
 node_modules
 _book
 _out
+_static

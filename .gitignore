@@ -2,6 +2,7 @@
 _book
 _doc
 _out
+_static
 
 # eBook build output
 *.epub
