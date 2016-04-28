@@ -1,2 +1,6 @@
 gulpfile.js
 package.json
+sources
+doc
+node_modules
+_book

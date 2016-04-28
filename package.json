@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "npm test",
-    "deploy": "node_modules/.bin/gulp deploy"
+    "deploy": "node_modules/.bin/gulp deploy",
+    "summary": "node_modules/.bin/book sm"
   },
   "repository": {
     "type": "git",
@@ -21,11 +22,10 @@
     "url": "http://conseweb.github.io/market-research/issues"
   },
   "homepage": "http://conseweb.github.io/market-research#readme",
-  "dependencies": {
-    "gulp": "^3.9.1"
-  },
+  "dependencies": {},
   "devDependencies": {
     "del": "^2.2.0",
+    "gitbook-summary": "*",
     "gulp": "^3.9.0",
     "gulp-gh-pages": "^0.5.4"
   }
