@@ -1,7 +1,7 @@
 {
   "name": "blockchain-market-research",
   "version": "0.0.6",
-  "description": "Gitbook-summary 中文说明文档",
+  "description": "区块链相关行业市场调研",
   "main": "index.js",
   "scripts": {
     "test": "npm test",
@@ -9,18 +9,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "http://imfly.github.io/bitcoin-on-nodejs"
+    "url": "http://conseweb.github.io/market-research"
   },
   "keywords": [
     "bitcoin",
-    "nodejs"
+    "blockchain"
   ],
-  "author": "imfly",
+  "author": "黄立峰",
   "license": "MIT",
   "bugs": {
-    "url": "http://imfly.github.io/bitcoin-on-nodejs/issues"
+    "url": "http://conseweb.github.io/market-research/issues"
   },
-  "homepage": "http://imfly.github.io/bitcoin-on-nodejs#readme",
+  "homepage": "http://conseweb.github.io/market-research#readme",
   "dependencies": {
     "gulp": "^3.9.1"
   },
