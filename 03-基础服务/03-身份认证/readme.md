@@ -9,3 +9,6 @@
 * [blockstack](https://blockstack.org)
 * [BitAuth](https://github.com/bitpay/bitauth): for Decentralized Authentication, Authenticate with web services utilizing the same strategy as Bitcoin. Passwordless authentication.
 * [Onename](https://onename.com/): based on blockstack. 主要是存储个人身份信息。
+
+## 数字身份安全
+* [Civic](https://www.civic.com/): Free identity protection for life. “你在手机上安装一个应用，当有人试图通过你的网络来使用你的社保号（SSN）时，你会得到一个警报。没有人可以使用你的身份来打开账户。”
